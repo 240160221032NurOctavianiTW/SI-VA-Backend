@@ -31,18 +31,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/240160221022-byte">
-        <img src="https://avatars.githubusercontent.com/u/273494802?v=4&s=200" width="100px;" alt="240160221022-byte"/><br>
-        <sub><b>Marsya5</b></sub>
-      </a><br>
-      <sub>240160221022</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/240160221028-hash">
         <img src="https://avatars.githubusercontent.com/u/267646103?v=4&s=200" width="100px;" alt="240160221028-hash"/><br>
         <sub><b>Muhammad Zaky</b></sub>
       </a><br>
       <sub>240160221028</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/240160221022-byte">
+        <img src="https://avatars.githubusercontent.com/u/273494802?v=4&s=200" width="100px;" alt="240160221022-byte"/><br>
+        <sub><b>Marsya5</b></sub>
+      </a><br>
+      <sub>240160221022</sub>
     </td>
     <td align="center">
       <a href="https://github.com/240160221008-lab">
@@ -114,21 +114,14 @@
       <sub>240160221003</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/240160221030-NadyaZahraAulia">
-        <img src="https://avatars.githubusercontent.com/u/267926842?v=4&s=200" width="100px;" alt="240160221030-NadyaZahraAulia"/><br>
-        <sub><b>Nadya Zahra Aulia</b></sub>
-      </a><br>
-      <sub>240160221030</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/sarahazkiya19">
         <img src="https://avatars.githubusercontent.com/u/273493544?v=4&s=200" width="100px;" alt="sarahazkiya19"/><br>
         <sub><b>sarahazkiya19</b></sub>
       </a><br>
       <sub>240160221057</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/240160221038-ResaKhoerunnisa">
         <img src="https://avatars.githubusercontent.com/u/273454722?v=4&s=200" width="100px;" alt="240160221038-ResaKhoerunnisa"/><br>
@@ -143,8 +136,6 @@
       </a><br>
       <sub>240160221050</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/240160221011-FaatinAshri">
         <img src="https://avatars.githubusercontent.com/u/273489076?v=4&s=200" width="100px;" alt="240160221011-FaatinAshri"/><br>
@@ -152,6 +143,8 @@
       </a><br>
       <sub>240160221011</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/240160221041-Rissa">
         <img src="https://avatars.githubusercontent.com/u/273492323?v=4&s=200" width="100px;" alt="240160221041-Rissa"/><br>
@@ -164,10 +157,8 @@
         <img src="https://avatars.githubusercontent.com/u/1296378?v=4&s=200" width="100px;" alt="deLLa"/><br>
         <sub><b>deLLa</b></sub>
       </a><br>
-      <sub>240160221022</sub>
+      <sub>240160221001</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/faishal">
         <img src="https://avatars.githubusercontent.com/u/1633818?v=4&s=200" width="100px;" alt="faishal"/><br>
@@ -175,6 +166,8 @@
       </a><br>
       <sub>240160221013</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/fauzan">
         <img src="https://avatars.githubusercontent.com/u/192761?v=4&s=200" width="100px;" alt="fauzan"/><br>
